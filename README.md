@@ -1,6 +1,6 @@
 # WhatsApp News Bot with Python, News APIs & Twilio - Complete Guide
 
-This project allows you to send real-time job-related news updates directly to your WhatsApp using Python, **NewsAPI** for fetching news articles, and **Twilio** for WhatsApp messaging. 
+This project allows you to send real-time job-related news updates directly to your WhatsApp using Python, **NewsAPI** for fetching news articles, and **Twilio** for WhatsApp messaging.
 
 ---
 
@@ -28,7 +28,7 @@ This project allows you to send real-time job-related news updates directly to y
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/whatsapp-job-news-bot.git
+    git clone https://github.com/arul0076/Job-News-WhatsApp-Alert.git
     cd whatsapp-job-news-bot
     ```
 
